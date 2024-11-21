@@ -1,0 +1,15 @@
+{
+    "umbral": {
+      "cpu": 1,
+      "ram": 1,
+      "disco": 1,
+      "tiempo": 5
+    },
+    "correo": {
+      "smtp_servidor": "IP_SERVIDOR_CORREO",
+      "smtp_puerto": 548,
+      "email": "CORREO_NOTIFICACION",
+      "destinatarios": ["romeo7mol@gmail.com"],
+      "servidor": "Servidor 1"
+    }
+}
